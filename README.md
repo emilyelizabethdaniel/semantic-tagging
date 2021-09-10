@@ -1,5 +1,9 @@
 # semantic-tagging: homework one 
 
-## refactor existing html code to use semantics tags where appropriate. Exchanged multiple div tags with more descriptive tags aded aside tags.
+## refactoring code
+ refactor html div tags to be semantic tags
+ at alt sources to images
+ 
 
 ## screen shot of home page 
+![Screen shot of webpage](./assets/image/screenshot.png)
