@@ -6,4 +6,4 @@
 
 
 ## screen shot of home page 
-![Screen shot of webpage](../assets/image/screencapture.png)
+![Screen shot of webpage](./assets/images/screencapture.png)
