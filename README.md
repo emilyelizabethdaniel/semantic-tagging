@@ -3,6 +3,7 @@
 ## refactoring code
  refactor html div tags to be semantic tags
  at alt sources to images
+ refactored css, took out superfluous code 
 
 
 ## screen shot of home page 
